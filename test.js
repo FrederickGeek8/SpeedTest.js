@@ -1,4 +1,4 @@
-var lib = require("./download.js");
+var lib = require("./SpeedTest.js");
 
 var URL = "http://localhost:8000/item";
 var PACKET_SIZE = 50000000; // dd if=/dev/random of=item bs=50000000 count=1
