@@ -1,0 +1,22 @@
+{
+  "name": "speedtest.js",
+  "version": "0.1.0",
+  "description": "A Node.js tool for testing Internet speeds between an user and a destination hosts.",
+  "main": "SpeedTest.js",
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrederickGeek8/SpeedTest.js.git"
+  },
+  "keywords": [
+    "speedtest"
+  ],
+  "author": "Frederick Morlock",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/FrederickGeek8/SpeedTest.js/issues"
+  },
+  "homepage": "https://github.com/FrederickGeek8/SpeedTest.js#readme"
+}
