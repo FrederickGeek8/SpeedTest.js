@@ -1,5 +1,5 @@
 # SpeedTest.js
-A Node.js tool for testing Internet speeds between a user and a destination hosts.
+A Node.js tool for testing Internet speeds between an user and a destination hosts.
 Currently only supports *download speed tests*.
 
 ## File Generation
