@@ -17,7 +17,7 @@ SpeedTest.prototype.runDownload = function(callback) {
     });
 
     response.once('end', function() {
-      console.log(new Date().getTime() - seconds);
+      // console.log(new Date().getTime() - seconds);
       var result = (size / (new Date().getTime() - seconds));
       result /= 1000;
       callback(result);

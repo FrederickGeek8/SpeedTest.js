@@ -20,6 +20,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+item
+
 # Logs
 logs
 *.log

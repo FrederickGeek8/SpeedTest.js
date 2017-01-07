@@ -11,7 +11,7 @@ dd if=/dev/random of=item bs=50000000 count=1
 ## Usage
 You must have a file of a fixed size uploaded to the server you are trying to test HTTP download speeds against.
 ```javascript
-var lib = require("./SpeedTest.js");
+var lib = require("speedtest.js");
 
 var URL = "http://localhost:8000/item"; // where the test file is stored
 var PACKET_SIZE = 50000000; // dd if=/dev/random of=item bs=50000000 count=1
